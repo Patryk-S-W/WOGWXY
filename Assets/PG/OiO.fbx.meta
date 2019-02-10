@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 11ed74e79b268ca4f91f8ee3b32ce0f7
+timeCreated: 1529383583
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AOS1_1
+    100002: barak_08_FINAL3_1
+    100004: budynek2_1
+    100006: Component_2_1
+    100008: Component_2_10
+    100010: Component_2_11
+    100012: Component_2_12
+    100014: Component_2_13
+    100016: Component_2_14
+    100018: Component_2_2
+    100020: Component_2_3
+    100022: Component_2_4
+    100024: Component_2_5
+    100026: Component_2_6
+    100028: Component_2_7
+    100030: Component_2_8
+    100032: Component_2_9
+    100034: Component_6_1
+    100036: Component_6_2
+    100038: Component_7_1
+    100040: Component_7_10
+    100042: Component_7_11
+    100044: Component_7_12
+    100046: Component_7_13
+    100048: Component_7_14
+    100050: Component_7_15
+    100052: Component_7_16
+    100054: Component_7_17
+    100056: Component_7_18
+    100058: Component_7_2
+    100060: Component_7_3
+    100062: Component_7_4
+    100064: Component_7_5
+    100066: Component_7_6
+    100068: Component_7_7
+    100070: Component_7_8
+    100072: Component_7_9
+    100074: Component_8_1
+    100076: Component_8_2
+    100078: Component_8_3
+    100080: Component_8_4
+    100082: DS2_1
+    100084: G_3_1
+    100086: Group1
+    100088: Group2
+    100090: Group3
+    100092: Group_1_1
+    100094: Group_5_1
+    100096: hydro1
+    100098: kwadratowa1
+    100100: Lisanne1
+    100102: Mesh1
+    100104: Mesh10
+    100106: Mesh11
+    100108: Mesh12
+    100110: Mesh13
+    100112: Mesh14
+    100114: Mesh15
+    100116: Mesh16
+    100118: Mesh17
+    100120: Mesh18
+    100122: Mesh19
+    100124: Mesh2
+    100126: Mesh20
+    100128: Mesh21
+    100130: Mesh22
+    100132: Mesh23
+    100134: Mesh24
+    100136: Mesh25
+    100138: Mesh26
+    100140: Mesh27
+    100142: Mesh28
+    100144: Mesh29
+    100146: Mesh3
+    100148: Mesh30
+    100150: Mesh31
+    100152: Mesh32
+    100154: Mesh33
+    100156: Mesh34
+    100158: Mesh35
+    100160: Mesh36
+    100162: Mesh37
+    100164: Mesh38
+    100166: Mesh39
+    100168: Mesh4
+    100170: Mesh40
+    100172: Mesh41
+    100174: Mesh42
+    100176: Mesh43
+    100178: Mesh44
+    100180: Mesh5
+    100182: Mesh6
+    100184: Mesh7
+    100186: Mesh8
+    100188: Mesh9
+    100190: //RootNode
+    100192: oio1
+    100194: Politechnika_Gda__ska2__1_1
+    100196: proj2_1
+    100198: projekt1
+    100200: rafal_ds4_1
+    100202: wzdz_elektryczny1
+    100204: zbearth1
+    100206: zoz1
+    400000: AOS1_1
+    400002: barak_08_FINAL3_1
+    400004: budynek2_1
+    400006: Component_2_1
+    400008: Component_2_10
+    400010: Component_2_11
+    400012: Component_2_12
+    400014: Component_2_13
+    400016: Component_2_14
+    400018: Component_2_2
+    400020: Component_2_3
+    400022: Component_2_4
+    400024: Component_2_5
+    400026: Component_2_6
+    400028: Component_2_7
+    400030: Component_2_8
+    400032: Component_2_9
+    400034: Component_6_1
+    400036: Component_6_2
+    400038: Component_7_1
+    400040: Component_7_10
+    400042: Component_7_11
+    400044: Component_7_12
+    400046: Component_7_13
+    400048: Component_7_14
+    400050: Component_7_15
+    400052: Component_7_16
+    400054: Component_7_17
+    400056: Component_7_18
+    400058: Component_7_2
+    400060: Component_7_3
+    400062: Component_7_4
+    400064: Component_7_5
+    400066: Component_7_6
+    400068: Component_7_7
+    400070: Component_7_8
+    400072: Component_7_9
+    400074: Component_8_1
+    400076: Component_8_2
+    400078: Component_8_3
+    400080: Component_8_4
+    400082: DS2_1
+    400084: G_3_1
+    400086: Group1
+    400088: Group2
+    400090: Group3
+    400092: Group_1_1
+    400094: Group_5_1
+    400096: hydro1
+    400098: kwadratowa1
+    400100: Lisanne1
+    400102: Mesh1
+    400104: Mesh10
+    400106: Mesh11
+    400108: Mesh12
+    400110: Mesh13
+    400112: Mesh14
+    400114: Mesh15
+    400116: Mesh16
+    400118: Mesh17
+    400120: Mesh18
+    400122: Mesh19
+    400124: Mesh2
+    400126: Mesh20
+    400128: Mesh21
+    400130: Mesh22
+    400132: Mesh23
+    400134: Mesh24
+    400136: Mesh25
+    400138: Mesh26
+    400140: Mesh27
+    400142: Mesh28
+    400144: Mesh29
+    400146: Mesh3
+    400148: Mesh30
+    400150: Mesh31
+    400152: Mesh32
+    400154: Mesh33
+    400156: Mesh34
+    400158: Mesh35
+    400160: Mesh36
+    400162: Mesh37
+    400164: Mesh38
+    400166: Mesh39
+    400168: Mesh4
+    400170: Mesh40
+    400172: Mesh41
+    400174: Mesh42
+    400176: Mesh43
+    400178: Mesh44
+    400180: Mesh5
+    400182: Mesh6
+    400184: Mesh7
+    400186: Mesh8
+    400188: Mesh9
+    400190: //RootNode
+    400192: oio1
+    400194: Politechnika_Gda__ska2__1_1
+    400196: proj2_1
+    400198: projekt1
+    400200: rafal_ds4_1
+    400202: wzdz_elektryczny1
+    400204: zbearth1
+    400206: zoz1
+    2300000: Mesh1
+    2300002: Mesh10
+    2300004: Mesh11
+    2300006: Mesh12
+    2300008: Mesh13
+    2300010: Mesh14
+    2300012: Mesh15
+    2300014: Mesh16
+    2300016: Mesh17
+    2300018: Mesh18
+    2300020: Mesh19
+    2300022: Mesh2
+    2300024: Mesh20
+    2300026: Mesh21
+    2300028: Mesh22
+    2300030: Mesh23
+    2300032: Mesh24
+    2300034: Mesh25
+    2300036: Mesh26
+    2300038: Mesh27
+    2300040: Mesh28
+    2300042: Mesh29
+    2300044: Mesh3
+    2300046: Mesh30
+    2300048: Mesh31
+    2300050: Mesh32
+    2300052: Mesh33
+    2300054: Mesh34
+    2300056: Mesh35
+    2300058: Mesh36
+    2300060: Mesh37
+    2300062: Mesh38
+    2300064: Mesh39
+    2300066: Mesh4
+    2300068: Mesh40
+    2300070: Mesh41
+    2300072: Mesh42
+    2300074: Mesh43
+    2300076: Mesh44
+    2300078: Mesh5
+    2300080: Mesh6
+    2300082: Mesh7
+    2300084: Mesh8
+    2300086: Mesh9
+    3300000: Mesh1
+    3300002: Mesh10
+    3300004: Mesh11
+    3300006: Mesh12
+    3300008: Mesh13
+    3300010: Mesh14
+    3300012: Mesh15
+    3300014: Mesh16
+    3300016: Mesh17
+    3300018: Mesh18
+    3300020: Mesh19
+    3300022: Mesh2
+    3300024: Mesh20
+    3300026: Mesh21
+    3300028: Mesh22
+    3300030: Mesh23
+    3300032: Mesh24
+    3300034: Mesh25
+    3300036: Mesh26
+    3300038: Mesh27
+    3300040: Mesh28
+    3300042: Mesh29
+    3300044: Mesh3
+    3300046: Mesh30
+    3300048: Mesh31
+    3300050: Mesh32
+    3300052: Mesh33
+    3300054: Mesh34
+    3300056: Mesh35
+    3300058: Mesh36
+    3300060: Mesh37
+    3300062: Mesh38
+    3300064: Mesh39
+    3300066: Mesh4
+    3300068: Mesh40
+    3300070: Mesh41
+    3300072: Mesh42
+    3300074: Mesh43
+    3300076: Mesh44
+    3300078: Mesh5
+    3300080: Mesh6
+    3300082: Mesh7
+    3300084: Mesh8
+    3300086: Mesh9
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+    4300022: Mesh12
+    4300024: Mesh13
+    4300026: Mesh14
+    4300028: Mesh15
+    4300030: Mesh16
+    4300032: Mesh17
+    4300034: Mesh18
+    4300036: Mesh19
+    4300038: Mesh20
+    4300040: Mesh21
+    4300042: Mesh22
+    4300044: Mesh23
+    4300046: Mesh24
+    4300048: Mesh25
+    4300050: Mesh26
+    4300052: Mesh27
+    4300054: Mesh28
+    4300056: Mesh29
+    4300058: Mesh30
+    4300060: Mesh31
+    4300062: Mesh32
+    4300064: Mesh33
+    4300066: Mesh34
+    4300068: Mesh35
+    4300070: Mesh36
+    4300072: Mesh37
+    4300074: Mesh38
+    4300076: Mesh39
+    4300078: Mesh40
+    4300080: Mesh41
+    4300082: Mesh42
+    4300084: Mesh43
+    4300086: Mesh44
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asphalt_New
+    second: {fileID: 2100000, guid: 1876a2e5f14456943b9ec92f8b21d244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: c9a29b4495af2b0439cc5b53bb0f0e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: b370ad5737171cb408ae95224486ac9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Bandana
+    second: {fileID: 2100000, guid: 24138c14c4ac42d41a3f3ab1677e7cd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Boot_Sole_01
+    second: {fileID: 2100000, guid: 1f05b6c69777456449d04d59df840262, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Boot_Sole_02
+    second: {fileID: 2100000, guid: acde58061756c844e80125fd7283ccc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Boots
+    second: {fileID: 2100000, guid: 0da212475ed516f4291ab70d150b00a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Bracelet
+    second: {fileID: 2100000, guid: 1b76d0f6b01ffa542aea2c1901b329d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Brush
+    second: {fileID: 2100000, guid: 2920d7955bc51ff4eae87030f41dc564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Brush_Handle
+    second: {fileID: 2100000, guid: 37dee09db17d63443a7ca603322f769b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Brush_Metal
+    second: {fileID: 2100000, guid: 36f2f91e12efb4e448f5764507fbface, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Caulk
+    second: {fileID: 2100000, guid: 873e87ba540a4054a87e9dfd63fd9123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Caulkgun
+    second: {fileID: 2100000, guid: d74afb6b2e90f894dafc32d307b50236, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Eraser
+    second: {fileID: 2100000, guid: c7108a65ba1ddc54bbd0b22dd11e1d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Hair
+    second: {fileID: 2100000, guid: 90ea15c4e841d8945a42b3ee079d512c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Hammer
+    second: {fileID: 2100000, guid: cadbca11783ef2b4d8a4f5ea1dbf06b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Metal
+    second: {fileID: 2100000, guid: 4fafeb033fa2d314bbc81e4be0a76080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Necklace
+    second: {fileID: 2100000, guid: eb551510562da00499aca375525f47c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Overalls
+    second: {fileID: 2100000, guid: f4c715d8b3c24b74a832988a605160cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Shirt_Blue
+    second: {fileID: 2100000, guid: 96973e2c450095a4da85cd71911c22b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Skin
+    second: {fileID: 2100000, guid: e9bd7c382d6390d458ebb97a4b0b3b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tool_Bag_01
+    second: {fileID: 2100000, guid: 23b41fb55705302489e8f14c595c2356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tool_Bag_02
+    second: {fileID: 2100000, guid: a27f986da830bf1458a7ae42d44d3285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tool_Bag_03
+    second: {fileID: 2100000, guid: 847e4f12161a3594aa406c3279a15241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tools
+    second: {fileID: 2100000, guid: dcfa6d245bbd29145964c91d28ed448d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Watch
+    second: {fileID: 2100000, guid: 9aabb65b0285d874da11ac3f97645b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_3p1
+    second: {fileID: 2100000, guid: 6db021b715969034b87070207dff52b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Aluminum_Anodized
+    second: {fileID: 2100000, guid: ed39f2cfb3c9faf43b3459615d06cf36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _45
+    second: {fileID: 2100000, guid: 99bc1f211b56a1149a1ccee02266a5a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Black_
+    second: {fileID: 2100000, guid: d5e9beaeb8a50d641b10d499fc4a6edd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _DarkGoldenrod_
+    second: {fileID: 2100000, guid: 18a88d3ed96b4d84699e5e5498633ca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aud_bok
+    second: {fileID: 2100000, guid: d77d1c79a17c9d241ba939dde912a4be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aud_bok1
+    second: {fileID: 2100000, guid: 8a06a37f4662b6d46b185e8c85700e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aud_face
+    second: {fileID: 2100000, guid: 0c5f09bafc4d7624d93b2261138a484c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_n1
+    second: {fileID: 2100000, guid: a59b17adeddf9684c95600df82796fe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bbeton
+    second: {fileID: 2100000, guid: 9a26f75b50cd77f41952c9b06d1f25e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton
+    second: {fileID: 2100000, guid: 23bc6cfd7373a9347b83bba1e882ce42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton_zolty
+    second: {fileID: 2100000, guid: 1a87170d7a935a74b9838c2a2ac72e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bialy
+    second: {fileID: 2100000, guid: 35b772f01eabd784e8dde7fd8219377b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blee
+    second: {fileID: 2100000, guid: be9b19ca80f115247a9294bec9d5e89c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach6
+    second: {fileID: 2100000, guid: e0e9ec0242266c7469ecd158939620f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach7
+    second: {fileID: 2100000, guid: 069acb744b6a6574291f2457a0079bd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drab
+    second: {fileID: 2100000, guid: a917c7889ede4df44b022eece98bf5db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drzwi2
+    second: {fileID: 2100000, guid: d1785b56bae996c4ea089c080315b1ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face
+    second: {fileID: 2100000, guid: 9bb49a1c2926947418f8e15b6e983166, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garaz
+    second: {fileID: 2100000, guid: e0c904548d4f4884f86f66d3f1d48dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gowno
+    second: {fileID: 2100000, guid: 1125d8e1921a77a4c8460f0f0564e964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lacznik
+    second: {fileID: 2100000, guid: db285bcf98777884785c7976b9f557ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nadwejsciem
+    second: {fileID: 2100000, guid: 9cd8b12720fe6e042b9869516b582e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: okno
+    second: {fileID: 2100000, guid: 70fa28340e0107c40bab322d3651083f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: okno1
+    second: {fileID: 2100000, guid: 2915ec1a6d589734db7eed02a1710580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parter
+    second: {fileID: 2100000, guid: a45c85758ba329242b1e5527bf58c987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trojkat
+    second: {fileID: 2100000, guid: 924c2de601b5fca418fbd0755482c876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xxx
+    second: {fileID: 2100000, guid: 124b91423f2a47441bb839eac11ba79a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

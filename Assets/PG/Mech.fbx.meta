@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 11b24c2626403194ba5954f33579957a
+timeCreated: 1529383581
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AOS1_1
+    100002: barak_08_FINAL3_1
+    100004: budynek2_1
+    100006: Component_3_1
+    100008: Component_3_10
+    100010: Component_3_11
+    100012: Component_3_12
+    100014: Component_3_13
+    100016: Component_3_14
+    100018: Component_3_15
+    100020: Component_3_2
+    100022: Component_3_3
+    100024: Component_3_4
+    100026: Component_3_5
+    100028: Component_3_6
+    100030: Component_3_7
+    100032: Component_3_8
+    100034: Component_3_9
+    100036: DS2_1
+    100038: G_3_1
+    100040: Group1
+    100042: hydro1
+    100044: kwadratowa1
+    100046: Lisanne1
+    100048: //RootNode
+    100050: Mesh1
+    100052: Mesh10
+    100054: Mesh11
+    100056: Mesh12
+    100058: Mesh13
+    100060: Mesh14
+    100062: Mesh15
+    100064: Mesh16
+    100066: Mesh17
+    100068: Mesh2
+    100070: Mesh3
+    100072: Mesh4
+    100074: Mesh5
+    100076: Mesh6
+    100078: Mesh7
+    100080: Mesh8
+    100082: Mesh9
+    100084: myMechan3_1
+    100086: oio1
+    100088: Politechnika_Gda__ska2__1_1
+    100090: proj2_1
+    100092: projekt1
+    100094: rafal_ds4_1
+    100096: wzdz_elektryczny1
+    100098: zbearth1
+    100100: zoz1
+    400000: AOS1_1
+    400002: barak_08_FINAL3_1
+    400004: budynek2_1
+    400006: Component_3_1
+    400008: Component_3_10
+    400010: Component_3_11
+    400012: Component_3_12
+    400014: Component_3_13
+    400016: Component_3_14
+    400018: Component_3_15
+    400020: Component_3_2
+    400022: Component_3_3
+    400024: Component_3_4
+    400026: Component_3_5
+    400028: Component_3_6
+    400030: Component_3_7
+    400032: Component_3_8
+    400034: Component_3_9
+    400036: DS2_1
+    400038: G_3_1
+    400040: Group1
+    400042: hydro1
+    400044: kwadratowa1
+    400046: Lisanne1
+    400048: //RootNode
+    400050: Mesh1
+    400052: Mesh10
+    400054: Mesh11
+    400056: Mesh12
+    400058: Mesh13
+    400060: Mesh14
+    400062: Mesh15
+    400064: Mesh16
+    400066: Mesh17
+    400068: Mesh2
+    400070: Mesh3
+    400072: Mesh4
+    400074: Mesh5
+    400076: Mesh6
+    400078: Mesh7
+    400080: Mesh8
+    400082: Mesh9
+    400084: myMechan3_1
+    400086: oio1
+    400088: Politechnika_Gda__ska2__1_1
+    400090: proj2_1
+    400092: projekt1
+    400094: rafal_ds4_1
+    400096: wzdz_elektryczny1
+    400098: zbearth1
+    400100: zoz1
+    2300000: Mesh1
+    2300002: Mesh10
+    2300004: Mesh11
+    2300006: Mesh12
+    2300008: Mesh13
+    2300010: Mesh14
+    2300012: Mesh15
+    2300014: Mesh16
+    2300016: Mesh17
+    2300018: Mesh2
+    2300020: Mesh3
+    2300022: Mesh4
+    2300024: Mesh5
+    2300026: Mesh6
+    2300028: Mesh7
+    2300030: Mesh8
+    2300032: Mesh9
+    3300000: Mesh1
+    3300002: Mesh10
+    3300004: Mesh11
+    3300006: Mesh12
+    3300008: Mesh13
+    3300010: Mesh14
+    3300012: Mesh15
+    3300014: Mesh16
+    3300016: Mesh17
+    3300018: Mesh2
+    3300020: Mesh3
+    3300022: Mesh4
+    3300024: Mesh5
+    3300026: Mesh6
+    3300028: Mesh7
+    3300030: Mesh8
+    3300032: Mesh9
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+    4300022: Mesh12
+    4300024: Mesh13
+    4300026: Mesh14
+    4300028: Mesh15
+    4300030: Mesh16
+    4300032: Mesh17
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: c9a29b4495af2b0439cc5b53bb0f0e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Burnt_Sienna
+    second: {fileID: 2100000, guid: d6263224e1bb1804facf581d97bc0414, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: b370ad5737171cb408ae95224486ac9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Bandana
+    second: {fileID: 2100000, guid: 24138c14c4ac42d41a3f3ab1677e7cd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Boot_Sole_01
+    second: {fileID: 2100000, guid: 1f05b6c69777456449d04d59df840262, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Boot_Sole_02
+    second: {fileID: 2100000, guid: acde58061756c844e80125fd7283ccc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Boots
+    second: {fileID: 2100000, guid: 0da212475ed516f4291ab70d150b00a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Bracelet
+    second: {fileID: 2100000, guid: 1b76d0f6b01ffa542aea2c1901b329d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Brush
+    second: {fileID: 2100000, guid: 2920d7955bc51ff4eae87030f41dc564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Brush_Handle
+    second: {fileID: 2100000, guid: 37dee09db17d63443a7ca603322f769b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Brush_Metal
+    second: {fileID: 2100000, guid: 36f2f91e12efb4e448f5764507fbface, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Caulk
+    second: {fileID: 2100000, guid: 873e87ba540a4054a87e9dfd63fd9123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Caulkgun
+    second: {fileID: 2100000, guid: d74afb6b2e90f894dafc32d307b50236, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Eraser
+    second: {fileID: 2100000, guid: c7108a65ba1ddc54bbd0b22dd11e1d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Hair
+    second: {fileID: 2100000, guid: 90ea15c4e841d8945a42b3ee079d512c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Hammer
+    second: {fileID: 2100000, guid: cadbca11783ef2b4d8a4f5ea1dbf06b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Metal
+    second: {fileID: 2100000, guid: 4fafeb033fa2d314bbc81e4be0a76080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Necklace
+    second: {fileID: 2100000, guid: eb551510562da00499aca375525f47c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Overalls
+    second: {fileID: 2100000, guid: f4c715d8b3c24b74a832988a605160cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Shirt_Blue
+    second: {fileID: 2100000, guid: 96973e2c450095a4da85cd71911c22b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Skin
+    second: {fileID: 2100000, guid: e9bd7c382d6390d458ebb97a4b0b3b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tool_Bag_01
+    second: {fileID: 2100000, guid: 23b41fb55705302489e8f14c595c2356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tool_Bag_02
+    second: {fileID: 2100000, guid: a27f986da830bf1458a7ae42d44d3285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tool_Bag_03
+    second: {fileID: 2100000, guid: 847e4f12161a3594aa406c3279a15241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tools
+    second: {fileID: 2100000, guid: dcfa6d245bbd29145964c91d28ed448d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Watch
+    second: {fileID: 2100000, guid: 9aabb65b0285d874da11ac3f97645b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Untitled_4
+    second: {fileID: 2100000, guid: cb457c24f863d304c9a65ad33f50d53c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Untitled_4_1
+    second: {fileID: 2100000, guid: 65aea0521412a7246b5c435458edbedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Untitled_9
+    second: {fileID: 2100000, guid: 084c65d480deb234a95369f8fd103871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bok_przod_lewy1
+    second: {fileID: 2100000, guid: 91ff3d9baf44c4d46a78207c400263b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach_barakmed
+    second: {fileID: 2100000, guid: 6c2098a76cace934a85301aa4365f32d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dach_baraksmall
+    second: {fileID: 2100000, guid: 0de8b4c910eb0a64fba9811d59361c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fdf
+    second: {fileID: 2100000, guid: 3b4c3516be932434da995a5f39268c35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fdf1
+    second: {fileID: 2100000, guid: 771bd2b54cd8c7c4a8f9f2b7f5e39516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hangar_low
+    second: {fileID: 2100000, guid: cbfeb8153ef8c7146900d02f443296b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hori_sciana
+    second: {fileID: 2100000, guid: 735cb988e0bba1f4c8da2dfa2ccabff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: labki1
+    second: {fileID: 2100000, guid: a626a4b5ecbda7b49ba2c58a97ec1c70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: north
+    second: {fileID: 2100000, guid: 988a8e1a1d0b36f4d8b85c1b7d873c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: north_hang
+    second: {fileID: 2100000, guid: 5e9a3f7ff679c9c4ba8e5347992983a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: north_srodek
+    second: {fileID: 2100000, guid: a2e423b6595e5be409709c0ba67f8134, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: przedsionek
+    second: {fileID: 2100000, guid: aa2fa2a98f34e934ba482432b4b399e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rynna
+    second: {fileID: 2100000, guid: 09415aa8419e4d3418f5c237d441d69d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sciana3
+    second: {fileID: 2100000, guid: 4ffb8f9f4adc7c240820b4103f17b361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sciana4
+    second: {fileID: 2100000, guid: 5a04bfdf25422e04d9dfec1308acd92e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scianaSOUTH1
+    second: {fileID: 2100000, guid: ecb83002e0496e644a4f054043e58774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skrzydlolewe4
+    second: {fileID: 2100000, guid: fd3e2997ce2ea684a817b896752e5341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skrzydloprawo
+    second: {fileID: 2100000, guid: 9cbfb224ec29d004699ee3a9b38b436e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: srodek
+    second: {fileID: 2100000, guid: 33a2bf26083e2444e94cc9cfa13969db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tyl_prawo
+    second: {fileID: 2100000, guid: 04e231a5fe1716d40b7156c979e1cf46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tylboksrod
+    second: {fileID: 2100000, guid: 39dfc5850dd476c42a1fd02a197c9916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tylskrzydloprawo2
+    second: {fileID: 2100000, guid: 5c12fb220489da241814145d7f7142ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tylsrodek
+    second: {fileID: 2100000, guid: 3d719a2a2fb8408459f430e46f0959a7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
